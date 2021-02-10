@@ -48,8 +48,9 @@ For this to work, you might have to visit the [Colab home page](https://colab.re
 
 ### Part III: From Symbolic Expressions to Machine Learning
 
-* [From symbolic expressions to machine learning](https://drive.google.com/file/d/1br-B3hlv-C6mO9FkXSjV3hcULlIPvydE/view?usp=sharing)
-* [Machine learning with PyTorch](https://drive.google.com/file/d/1whGvUdiXI-xthY1ts-7VS_eJLaObCCN6/view?usp=sharing)
+* [Mathematical expressions](https://drive.google.com/file/d/17tbBG3C5xNCZJZ3I5IMQFJYvLoLyMCgy/view?usp=sharing)
+* From expressions to machine learning (in preparation)
+* Machine learning with PyTorch (in preparation)
 
 ### Part IV: Graphs and Dynamic Algorithms
 
