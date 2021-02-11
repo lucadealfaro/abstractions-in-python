@@ -49,6 +49,7 @@ For this to work, you might have to visit the [Colab home page](https://colab.re
 ### Part III: From Symbolic Expressions to Machine Learning
 
 * [Mathematical expressions](https://drive.google.com/file/d/17tbBG3C5xNCZJZ3I5IMQFJYvLoLyMCgy/view?usp=sharing)
+* [Expressions as classes](https://drive.google.com/file/d/1sRqhaXfOo1JVzZyyM0CyWs_GTDCzBRu9/view?usp=sharing)
 * From expressions to machine learning (in preparation)
 * Machine learning with PyTorch (in preparation)
 

@@ -1,0 +1,5 @@
+.vscode/*
+.idea/*
+.ipynb_checkpoints/*
+.nbgrader.log
+
