@@ -50,7 +50,7 @@ For this to work, you might have to visit the [Colab home page](https://colab.re
 
 * [Mathematical expressions](https://drive.google.com/file/d/17tbBG3C5xNCZJZ3I5IMQFJYvLoLyMCgy/view?usp=sharing)
 * [Expressions as classes](https://drive.google.com/file/d/1sRqhaXfOo1JVzZyyM0CyWs_GTDCzBRu9/view?usp=sharing)
-* From expressions to machine learning (in preparation)
+* [From expressions to machine learning](https://drive.google.com/file/d/1br-B3hlv-C6mO9FkXSjV3hcULlIPvydE/view?usp=sharing)
 * Machine learning with PyTorch (in preparation)
 
 ### Part IV: Graphs and Dynamic Algorithms
