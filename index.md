@@ -51,7 +51,7 @@ For this to work, you might have to visit the [Colab home page](https://colab.re
 * [Mathematical expressions](https://drive.google.com/file/d/17tbBG3C5xNCZJZ3I5IMQFJYvLoLyMCgy/view?usp=sharing)
 * [Expressions as classes](https://drive.google.com/file/d/1sRqhaXfOo1JVzZyyM0CyWs_GTDCzBRu9/view?usp=sharing)
 * [From expressions to machine learning](https://drive.google.com/file/d/16KI17U6MOjdasZHIwMgtHlmk-dNc1_R7/view?usp=sharing)
-* Machine learning with PyTorch (https://drive.google.com/file/d/1whGvUdiXI-xthY1ts-7VS_eJLaObCCN6/view?usp=sharing)
+* [Machine learning with PyTorch](https://drive.google.com/file/d/1whGvUdiXI-xthY1ts-7VS_eJLaObCCN6/view?usp=sharing)
 
 ### Part IV: Graphs and Dynamic Algorithms
 
