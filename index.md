@@ -1,6 +1,6 @@
 # Programming Abstractions in Python
 ### Luca de Alfaro
-Copyright 2019-21, Luca de Alfaro. [License: CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+Copyright 2019-21, [Luca de Alfaro](https://lucadealfaro.bitbucket.io). [License: CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Introduction
 
@@ -18,7 +18,7 @@ The book is articulated into five parts:
 
 In the course of the book, we will provide simple implementations of well-known problems.  Among other things, we will reimplement the machine-learning framework [PyTorch](https://pytorch.org/), albeit in a simplified pure-Python setting; we will reimplement the core of [Pandas](https://pandas.pydata.org/), and we will write Sudoku and Boolean SAT solvers.  All these implementations will be concise, minimalistic, and yet powerful, and we hope that they can serve as illustration of how to approach non-trivial software and algorithmic problems. 
 
-The book chapters consist in [Jupyter notebooks](https://jupyter.org/).  Jupyter notebooks allow [literate programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html): one can write, in the same place and properly interleaved, both the text and mathematics that explains the high-level concepts, and their implementations into code.  The notebooks provided here form the book.  In these notebooks, exercises appear in two forms: as suggestions, and as holes where code is missing, for students to fill in.  Separately, upon request, are available also teacher versions of the notebooks, where all the code holes have been filled, so that the whole notebook can be run during a classroom lecture. To request these notebooks, email the author at luca@ucsc.edu. 
+The book chapters consist in [Jupyter notebooks](https://jupyter.org/).  Jupyter notebooks allow [literate programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html): one can write, in the same place and properly interleaved, both the text and mathematics that explains the high-level concepts, and their implementations into code.  The notebooks provided here form the book.  In these notebooks, exercises appear in two forms: as suggestions, and as holes where code is missing, for students to fill in.  Separately, upon request, are available also teacher versions of the notebooks, where all the code holes have been filled, so that the whole notebook can be run during a classroom lecture. To request these notebooks, email the author at dealfaro@alumni.stanford.edu. 
 
 The author is much indebted to Philippe Bossut for inspiration about the approach, and to Massimo Di Pierro for his many suggestions on topics to cover and methods. 
 
