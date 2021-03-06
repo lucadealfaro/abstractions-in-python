@@ -1,6 +1,6 @@
 # Programming Abstractions in Python
 ### Luca de Alfaro
-Copyright 2019-21, [Luca de Alfaro](https://lucadealfaro.bitbucket.io). [License: CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+Copyright 2019-21, [Luca de Alfaro](https://luca.dealfaro.com). [License: CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Introduction
 
