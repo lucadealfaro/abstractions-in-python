@@ -36,14 +36,17 @@ Tools and development environments are important, but they also change and evolv
 
 The author is much indebted to Philippe Bossut for inspiration about the approach, and to Massimo Di Pierro for his many suggestions on topics to cover and methods. 
 
-## Chapters
+### Accessing the Content
 
-We provide each chapter as a link to a notebook hosted in [Google Colab](https://colab.research.google.com/). 
-For this to work, you might have to visit the [Colab home page](https://colab.research.google.com/) prior to clicking on the links here. 
+We provide here the Jupyter Notebooks constituting the chapters, along with the video lectures that accompany them. 
+To access a Jupyter Notebook, you have two choices: you can either follow the link here on GitHub, or you can visit the notebooks on Google Colab. 
+This second way [requires a bit of setup if you are new to Colab](/colab_setup.html), but has the advantage that you can directly play with the lecture material: you can run it, and you can experiment with it by changing it and running it again. 
+
+## Chapters
 
 ### Part I: Methods
 
-* [Introduction to Python 3](https://drive.google.com/file/d/1u2JiL4uyXaPbRN1jAHpgbqY1TIWSHtj9/view?usp=sharing)
+* [Introduction to Python 3](/introduction_to_python_3.html)
 * [Classes](https://drive.google.com/file/d/1G-DxUTrpH5iwZSrs9DGYzmOkHBIeh5bU/view?usp=sharing)
 * [Data structures and their access characteristics](https://drive.google.com/file/d/1yRmE5nCeW0h9_sQy-MRieCZYBLBmY3lE/view?usp=sharing)
 * [Recursion](https://drive.google.com/file/d/1ouv7isWK61DA5v0-aXMwkZLPK-ZH8-b-/view?usp=sharing)
