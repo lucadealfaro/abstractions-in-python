@@ -7,8 +7,18 @@ You can access them as follows.
 
 ## Using Google Colab for the first time
 
-The first time you click on a link for a notebook hosted on Google Colab, there are two cases.  If you are lucky (which usually means, you have used Colab and forgot you did), the notebook will just open.  More often, you will see a blank screen with an offer to download the file, an a small prompt at the top to "Connect more apps".  Click on that, and search for "colab" or "colaboratory".  You will fin the app; click "connect".  Next time you try to open a link to a notebook in Drive, it will open in Colab. 
+The first time you click on a link for a notebook hosted on Google Colab, there are three cases.  
+
+If you are lucky (which usually means, you have used Colab and forgot you did), the notebook will just open.  
+If you are slightly less lucky, you will get a blank screen with an option on top to "open with Google Colab"; in that case, click on it. 
+
+
+ More often, you will see a blank screen with an offer to download the file, and a small prompt at the top to "Connect more apps".  Click on that, and search for "colab" or "colaboratory".  You will fin the app; click "connect".  Next time you try to open a link to a notebook in Drive, it will open in Colab. 
 
 ## Playing with your own copy of a notebook
 
 To play with a notebook on Colab, you need to make your own copy.  To do so, click on `File > Save a Copy on Drive`.  This will create a copy on which you can work.  Unfortunately, the new copy is always put into a `Colab` folder in your drive; from there, you can move it to the folder you prefer. 
+
+## Using the notebooks with Jupyter Notebook
+
+Another alternative consists in downloading the notebook to your laptop, via `File > Download > Download .ipynb`, and then using it with [Jupyter Notebook](https://jupyter.org). 

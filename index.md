@@ -39,15 +39,15 @@ The author is much indebted to Philippe Bossut for inspiration about the approac
 ### Accessing the Content
 
 We provide here the Jupyter Notebooks constituting the chapters, along with the video lectures that accompany them. 
-To access a Jupyter Notebook, you have two choices: you can either follow the link here on GitHub, or you can visit the notebooks on Google Colab. 
-This second way [requires a bit of setup if you are new to Colab](/colab_setup.html), but has the advantage that you can directly play with the lecture material: you can run it, and you can experiment with it by changing it and running it again. 
+To access a Jupyter Notebook, you have three choices: you can either follow the link here on GitHub, you can visit the notebooks on Google Colab, or you can download it and run it with Jupyter on your own laptop.
+Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage that you can directly play with the lecture material. 
 
 ## Chapters
 
 ### Part I: Methods
 
 * [Introduction to Python 3](/introduction_to_python_3.html)
-* [Classes](https://drive.google.com/file/d/1G-DxUTrpH5iwZSrs9DGYzmOkHBIeh5bU/view?usp=sharing)
+* Classes [GitHub](notebooks/Classes_chapter.ipynb) [Colab](https://drive.google.com/file/d/1G-DxUTrpH5iwZSrs9DGYzmOkHBIeh5bU/view?usp=sharing) [Video]()
 * [Data structures and their access characteristics](https://drive.google.com/file/d/1yRmE5nCeW0h9_sQy-MRieCZYBLBmY3lE/view?usp=sharing)
 * [Recursion](https://drive.google.com/file/d/1ouv7isWK61DA5v0-aXMwkZLPK-ZH8-b-/view?usp=sharing)
 * [Generators](https://drive.google.com/file/d/1SST42824TaYjUuXcDa6c_R6kLxE6ZiEs/view?usp=sharing)
