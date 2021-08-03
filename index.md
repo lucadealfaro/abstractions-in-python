@@ -46,8 +46,8 @@ Using Colab [requires a bit of setup](/colab_setup.html), but has the advantage 
 
 ### Part I: Methods
 
-* [Introduction to Python 3](/introduction_to_python_3.html)
-* Classes [GitHub](notebooks/Classes_chapter.ipynb) [Colab](https://drive.google.com/file/d/1G-DxUTrpH5iwZSrs9DGYzmOkHBIeh5bU/view?usp=sharing) [Video]()
+* [Introduction to Python 3](/0_introduction_to_python_3.html)
+* [Classes](/1_classes.html) 
 * [Data structures and their access characteristics](https://drive.google.com/file/d/1yRmE5nCeW0h9_sQy-MRieCZYBLBmY3lE/view?usp=sharing)
 * [Recursion](https://drive.google.com/file/d/1ouv7isWK61DA5v0-aXMwkZLPK-ZH8-b-/view?usp=sharing)
 * [Generators](https://drive.google.com/file/d/1SST42824TaYjUuXcDa6c_R6kLxE6ZiEs/view?usp=sharing)
