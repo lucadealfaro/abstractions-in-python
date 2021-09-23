@@ -8,7 +8,7 @@ This chapter provides a quick refresher of Python 3.
 ### List, Dictionaries, and Sets
   * Notebook: [GitHub](notebooks/Introduction_to_Python_3_Lists,_Dictionaries,_and_Sets_chapter.ipynb) and [Colab](https://drive.google.com/file/d/1nJqOAXdwGIQHMqmCDtzFIi1Ka-qramEW/view?usp=sharing) 
   * [Video](https://drive.google.com/file/d/1yGaQDqUnmZTvGIRW60RfKAOSNsZy1MIz/view?usp=sharing)
-### Conrol Flow
+### Control Flow
   * Notebook: [GitHub](notebooks/Introduction_to_Python_3_Control_Flow_chapter.ipynb) and [Colab](https://drive.google.com/file/d/14k-YXZ_wFk5DwXlRZ5gJQ6LvgKjlVEb7/view?usp=sharing) 
   * [Video](https://drive.google.com/file/d/1R2rknkYcOjRa1OgcVjCJZuUN74LZFJxy/view?usp=sharing)
 ### Functions
